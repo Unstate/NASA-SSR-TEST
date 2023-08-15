@@ -1,5 +1,7 @@
+import planeta from '../assets/planeta.jpg'
+
 const Earth = () => {
-  return <div>Earth</div>;
+  return <img src={planeta}/>;
 };
 
 export default Earth;
